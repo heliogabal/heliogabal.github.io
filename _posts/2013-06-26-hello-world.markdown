@@ -12,6 +12,3 @@ I'm going static HTML again! It feels so liberating...
 # Awesomer
 ## Simpler
 [Link](http://rhalbmann.de)
-
-
-
